@@ -1,5 +1,6 @@
 #!/bin/bash
 # Based on a test script from avsm/ocaml repo https://github.com/avsm/ocaml
+# willit work?
 
 CHROOT_DIR=/tmp/arm-chroot
 MIRROR=http://archive.raspbian.org/raspbian
